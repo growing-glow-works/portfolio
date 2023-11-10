@@ -5,6 +5,7 @@ html{
 }
 .main{
     background-image: url(images/bg.jpg);
+    background-color: black;
     background-size: cover;
 }
 a {
