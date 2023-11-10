@@ -4,7 +4,7 @@ html{
     color: #fff;
 }
 .main{
-    background-image: url(../pf/images/bg.jpg);
+    background-image: url(images/bg.jpg);
     background-size: cover;
 }
 a {
@@ -98,7 +98,7 @@ p{
 
 
 #contact{
-    background-image: url(../pf/images/contactbg.jpg);
+    background-image: url(images/contactbg.jpg);
     background-size: cover; 
 }
 
