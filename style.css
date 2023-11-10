@@ -146,6 +146,7 @@ input[type="submit"] {
     color: #fff;
     border-radius: 50px;
     padding: 10px 20px;
+    margin:0 auto;
 }
 .button:hover {
     background: #FEFFD4;
